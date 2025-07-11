@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
+This project comes from a web course provided by rocketseat and its main goal is to review some core concepts of NextJs.
+
 ## Getting Started
 
 First, run the development server:
